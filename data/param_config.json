@@ -1,0 +1,7 @@
+{
+    "image_path" : "./data/",
+    "image_list_file": "./data/image_list.txt",
+    "num_row": 6,
+    "num_col": 9,
+    "square_size": 0.02423
+}
